@@ -12,7 +12,7 @@ Welcome to THU's 2021-chengdu80 Code Repo.
 
 4. we advice you run panda in PC at the first time so that we can ensure good experience for you
 
-5. Login username : test
+5. Login username : test and
    Login password: 111
  And you also an registe a new  account.
 
